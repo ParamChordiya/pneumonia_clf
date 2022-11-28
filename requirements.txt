@@ -1,0 +1,10 @@
+tensorflow-cpu==2.9.0
+python-multipart
+pillow
+matplotlib
+numpy
+uvicorn
+gunicorn
+Flask
+Flask-Cors
+scikit-image
